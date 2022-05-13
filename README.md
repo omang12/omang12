@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...github
 - 🌱 I’m currently learning ...github
 - 💞️ I’m looking to collaborate on ...github
-- 📫 How to reach me ...
+- 📫 How to reach me ...email.maulanashema80@gmail.com
 
 <!---
 omang12/omang12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
